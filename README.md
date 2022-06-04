@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=slice&amp;color=timeGradient&amp;height=275&amp;text=M%20sik&amp;fontSize=70&amp;fontAlign=75" />
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Msik&fontAlign=70&rotate=13&fontAlignY=25&desc=Hello%20GoodDay%20To%20Coding%20.&descAlign=70.&descAlignY=44)
 
 <h2 align="center">🛠&nbsp; Tech Stack </h2>
 

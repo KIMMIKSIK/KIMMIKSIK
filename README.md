@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/java-C21325?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-009639?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-2496ED?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-E10098?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/BootStrap-092E20?style=flat-square&logo=BootStrap&logoColor=white"/>
   <br />

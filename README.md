@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-E10098?style=flat-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
  <br />
 <h3 align="center">📌&nbsp; Techs that I've used at least once</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/java-C21325?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-009639?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-2496ED?style=flat-square&logo=MySQL&logoColor=white"/>
   <br />

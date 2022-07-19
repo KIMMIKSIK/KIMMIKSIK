@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-E10098?style=flat-square&logo=Sass&logoColor=white"/>
+   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-06B6D4?style=flat-square&logo=Typescript&logoColor=white"/>
 </p>
  <br />
 <h3 align="center">📌&nbsp; Techs that I've used at least once</h3>

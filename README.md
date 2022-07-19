@@ -27,13 +27,13 @@
 </p>
 <br />
 <p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="280px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMMIKSIK&layout=compact&theme=solarized-light"/>
   <br />
   <br />
   <br />
   <br />
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="330px">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://github-readme-stats.vercel.app/api?username=KIMMIKSIK&count_private=true&show_icons=true&theme=slateorange"/>
 </p>
 

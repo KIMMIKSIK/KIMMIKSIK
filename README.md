@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/Android-009639?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-2496ED?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-E10098?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BootStrap-092E20?style=flat-square&logo=BootStrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BootStrap-730ACC?style=flat-square&logo=BootStrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NextJs-092E20?style=flat-square&logo=Next.Js&logoColor=white"/>
   <br />
   <br />
 </p>
